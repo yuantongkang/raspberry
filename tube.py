@@ -12,7 +12,7 @@ F = 18
 G = 21
 DP = 22
 
-def shownum0:
+def shownum0() :
     GPIO.output(A,False)
     GPIO.output(B,False)
     GPIO.output(C,False)
